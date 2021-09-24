@@ -1,5 +1,6 @@
 # Brandon Chen
 *UCSD 3rd year majoring in Computer Science*
+
 ![](profilephoto.jpeg)
 
 ##### Intro and CS Background
