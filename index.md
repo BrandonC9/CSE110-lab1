@@ -1,7 +1,6 @@
 # Brandon Chen
 *UCSD 3rd year majoring in Computer Science*
-
-[Link to README](README.md)
+![](profilephoto.jpeg)
 
 ##### Intro and CS Background
 
@@ -19,6 +18,7 @@ Some additional things I want to achieve are:
 ##### Personal Bio
 I'd say I am an introverted person, but I still love hanging out with friends and new people. Sometimes I can be a bit lazy, but I always live off this Bill Gates quote:
 > “I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.” -Bill Gates
+
 Work smarter, not harder, right?
 
 Some of my hobbies include:
@@ -41,3 +41,4 @@ Just get lucky, and you'll always get *O(n)* runtime.
 
 I also like to do some LeetCode problems in my free time. [Here](https://leetcode.com/bradoche19/) is a link to my profile. Don't expect too much though.
 
+[Link to README](README.md)
